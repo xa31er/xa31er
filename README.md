@@ -1,3 +1,6 @@
-- Hi, I’m @xa31er
-- :gl:
-
+`#include <stdio.h>
+int main() {
+   printf("c is the best");
+   return 0;
+}
+`
